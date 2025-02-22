@@ -25,7 +25,7 @@ function App() {
       <Route path="/mergedSchedule" element={<MergedSchedule/>}/>
       <Route path="/mergeable" element={<MergeableSchedule/>}/>
 
-      
+        
       </Route>
     </Routes>
   </BrowserRouter>
