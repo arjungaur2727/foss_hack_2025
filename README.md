@@ -45,6 +45,8 @@ Real-Time Capacity Monitoring – ML-based model to track truck capacity dynamic
 Dynamic Route Adjustments – Intelligent route recalculations based on climatic conditions.
 Automated Notifications – Notify users of available truck space in real-time.
 📂 References
+
+
 📄 National Freight Report – NITI Aayog
 📄 MongoDB Docs
 📄 Express.js
@@ -53,6 +55,8 @@ Automated Notifications – Notify users of available truck space in real-time.
 📄 Postman
 
 👨‍💻 Team
+
+
 👤 Arjun Gaur
 👤 Aditya Godara
 👤 Om Gupta
