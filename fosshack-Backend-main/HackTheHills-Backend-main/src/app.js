@@ -28,7 +28,7 @@ connectDB().then(() => {
     console.log(`Server running on port ${port}`);
   });
 })
-.catch((err) => {
+.catch((err) => {   
   console.error("Cannot connect to DB: " + err);
 });
 app.use(express.json());
