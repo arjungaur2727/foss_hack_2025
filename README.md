@@ -44,6 +44,8 @@ API Testing: Postman
 Real-Time Capacity Monitoring – ML-based model to track truck capacity dynamically.
 Dynamic Route Adjustments – Intelligent route recalculations based on climatic conditions.
 Automated Notifications – Notify users of available truck space in real-time.
+
+
 📂 References
 
 
