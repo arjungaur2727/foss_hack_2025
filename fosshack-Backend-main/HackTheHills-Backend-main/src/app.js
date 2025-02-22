@@ -22,7 +22,7 @@ app.get('/', (req, res) => {
   res.send('We Will Win!')
 })
 
-connectDB().then(() => {
+connectDB().then(() => {          
   console.log("Connection established successfully");
   app.listen(port, () => {
     console.log(`Server running on port ${port}`);
