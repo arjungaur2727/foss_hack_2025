@@ -16,7 +16,7 @@ app.use(cors({
   origin:"http://localhost:5173",
   methods: "GET,POST,PATCH,PUT,DELETE,OPTIONS",
   credentials:true,
-}));
+}));  
 
 app.get('/', (req, res) => {
   res.send('We Will Win!')
