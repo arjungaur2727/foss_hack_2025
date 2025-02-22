@@ -67,11 +67,11 @@ const FooterSec = () => {
             <ul className="space-y-3">
               <li className="flex items-start">
                 <MapPin className="w-5 h-5 mr-2 mt-1 text-green-400" />
-                <span className="text-gray-400">IIIT Una</span>
+                <span className="text-gray-400">DELHI TECHNICAL CAMPUS</span>
               </li>
               <li className="flex items-center">
                 <Phone className="w-5 h-5 mr-2 text-green-400" />
-                <span className="text-gray-400">+91 73404-39674</span>
+                <span className="text-gray-400">+91 9416141314</span>
               </li>
               <li className="flex items-center">
                 <Mail className="w-5 h-5 mr-2 text-green-400" />
