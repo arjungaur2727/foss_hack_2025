@@ -3,7 +3,7 @@ const app = express()
 const port = 3000   
 
 const cors=require('cors')
-const connectDB=require("./config/database")
+const connectDB=require("./config/database")  
 const profileRouter=require("./routes/profile");   
 const authRouter=require("./routes/auth");
 const scheduleDeliveryRouter= require("./routes/scheduleDelivery");
