@@ -38,9 +38,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - **Next.js**: React framework for a seamless and scalable web app.
 - **Matter.js**: 2D physics engine for dynamic, physics-driven gameplay.
 - **Tailwind CSS**: For responsive and modern UI design.
-## Connect with Me 🌐
-- **GitHub**: [ProgrammerSahil](https://github.com/ProgrammerSahil)
-- **LinkedIn**: [Sahil Udar](https://www.linkedin.com/in/sahil-udar-467a71194/)
-## License 📜
-This project is open-source and licensed under the MIT License.
-Embark on the journey of *The Box* and see if it can escape the simulation! 🚀
