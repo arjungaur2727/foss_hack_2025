@@ -13,10 +13,6 @@ The game is live and ready to play!
 👉 **[Play The Box](https://the-box-ashy.vercel.app)**
 ## Getting Started
 First, clone the repository:
-```bash
-git clone https://github.com/ProgrammerSahil/the-box.git
-cd the-box
-```
 Then, install the dependencies:
 ```bash
 npm install
